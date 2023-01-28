@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1>Hi There👋</h1>
 
-<!--
-**anhln12/anhln12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<b>I'm Anh Le</b>. I'm DevOps Software-Engineer
+- 💻 I’m currently working on Linux OS, Docker, Jenkins, Reactjs, Nodejs, React Native and MongoDB.
+- 👨‍💻 My website [https://dbaleanh.wordpress.com](https://dbaleanh.wordpress.com)
 
-Here are some ideas to get you started:
+### Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,jenkins,git,vscode,js,mongodb,nodejs,react,net)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<summary style="color:gray">More Details⚡</summary>
+
+### Github Stats:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anhln12&layout=compact&hide=makefile,c++&hide_border=true&&theme=tokyonight)](https://github.com/anhln12)
+
+### Visitor Counter:
+
+<img alt="me" width="50%" src="https://profile-counter.glitch.me/anhln12/count.svg" />
